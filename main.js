@@ -1,6 +1,4 @@
-export function countLeapYears(startYear, endYear) {
-  
-  return count;
-}
+ export function countLeapYears(startYear, endYear) {}
 
-console.log(countLeapYears(1, 2024));
+// our code has just two parameters - startYear and endYear
+// count leap years from the first year of our era to 2024 A.D. inclusive ➕
