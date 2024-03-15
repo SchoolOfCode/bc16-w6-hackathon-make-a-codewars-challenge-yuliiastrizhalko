@@ -10,6 +10,7 @@ And then one day the Mr. Space 🌌  ![Mr.Space](https://github.com/SchoolOfCode
 sent a huge gift to planet Earth called a meteorite 🌠 Unfortunately it ended the age of the dinosaurs, but it created something new, something unique, something we now call HOME 🌍
 
 ![NASA](https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-yuliiastrizhalko/blob/main/channels4_profile.jpg)
+
 And suddenly NASA 🚀 gets a task from Mr. Space, he asked
 
 ❗❗❗ mankind to count the number of leap_years from the beginning of our era to 2024 ❗❗❗
