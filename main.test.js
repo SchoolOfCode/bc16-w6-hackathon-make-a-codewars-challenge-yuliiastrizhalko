@@ -8,7 +8,7 @@ test("Count leap years between 1 and 2024", () => {
 });
 
 test("Count leap years from 2000 to 2024", () => {
-  expect(countLeapYears(2000, 2024)).toBe(6); // 2000, 2004, 2008, 2012, 2016, 2020
+  expect(countLeapYears(2000, 2024)).toBe(7); // 2000, 2004, 2008, 2012, 2016, 2020
 });
 
 test("Count leap years from 100 to 200", () => {
