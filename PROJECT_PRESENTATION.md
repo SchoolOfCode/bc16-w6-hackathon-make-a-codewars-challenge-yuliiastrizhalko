@@ -1,5 +1,5 @@
 # Count_leap_years
-
+![LeapYears](https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-yuliiastrizhalko/blob/main/GettyImages-157399650-leap-year-56a9a2f73df78cf772a91e6b.jpg)
 ## Story
 
 Many, many years ago was the age of the dinosaurs... 🐱‍🐉
