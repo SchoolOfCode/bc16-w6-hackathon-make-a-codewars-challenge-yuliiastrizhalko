@@ -6,7 +6,8 @@ Many, many years ago was the age of the dinosaurs... 🐱‍🐉
 
 ![Dinosaurs](https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-yuliiastrizhalko/blob/main/large.jpg)
 
-And then one day the Mr. Space 🌌sent a huge gift to planet Earth called a meteorite 🌠 Unfortunately it ended the age of the dinosaurs, but it created something new, something unique, something we now call HOME 🌍
+And then one day the Mr. Space 🌌  ![Mr.Space](https://github.com/SchoolOfCode/bc16-w6-hackathon-make-a-codewars-challenge-yuliiastrizhalko/blob/main/photo_2024-03-15_11-42-06.jpg)
+sent a huge gift to planet Earth called a meteorite 🌠 Unfortunately it ended the age of the dinosaurs, but it created something new, something unique, something we now call HOME 🌍
 
 And suddenly NASA 🚀 gets a task from Mr. Space, he asked
 
